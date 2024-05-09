@@ -1,0 +1,111 @@
+PK,Category,Year,Amount (€),Quantity (Tonnes)
+1,Animal Feed,2018,385330749,808843
+2,Animal Feed,2019,426793208,920134
+3,Animal Feed,2020,458237352,945214
+4,Animal Feed,2021,544968523,1086745
+5,Animal Feed,2022,669247332,1047934
+6,Animal Skins & Furs,2018,107690433,91609
+7,Animal Skins & Furs,2019,74115644,75874
+8,Animal Skins & Furs,2020,58636138,79266
+9,Animal Skins & Furs,2021,73135368,72679
+10,Animal Skins & Furs,2022,82458739,84987
+11,Beef,2018,2434585755,534542
+12,Beef,2019,2348871628,528379
+13,Beef,2020,2334845719,524710
+14,Beef,2021,2427858686,454620
+15,Beef,2022,3015968638,485825
+16,Beverages,2018,1443812983,871005
+17,Beverages,2019,1715261857,966942
+18,Beverages,2020,1458032691,870026
+19,Beverages,2021,1758923100,870035
+20,Beverages,2022,2046588640,970369
+21,Cereal & cereal preparation,2018,408023288,281440
+22,Cereal & cereal preparation,2019,489674618,259597
+23,Cereal & cereal preparation,2020,486499556,274912
+24,Cereal & cereal preparation,2021,504506444,270282
+25,Cereal & cereal preparation,2022,614866352,280775
+26,"Coffee, Tea, Cocoa & Spices",2018,385220839,66372
+27,"Coffee, Tea, Cocoa & Spices",2019,411072695,69127
+28,"Coffee, Tea, Cocoa & Spices",2020,420795074,78208
+29,"Coffee, Tea, Cocoa & Spices",2021,437631202,76395
+30,"Coffee, Tea, Cocoa & Spices",2022,482044333,75959
+31,Crude Animal & Vegetable Material,2018,130597212,122337
+32,Crude Animal & Vegetable Material,2019,117075336,157243
+33,Crude Animal & Vegetable Material,2020,116563466,192167
+34,Crude Animal & Vegetable Material,2021,135423004,208975
+35,Crude Animal & Vegetable Material,2022,152374879,197100
+36,Dairy Produce,2018,4650418450,1440031
+37,Dairy Produce,2019,5164242160,1735918
+38,Dairy Produce,2020,5184179147,1723486
+39,Dairy Produce,2021,5192212135,1643676
+40,Dairy Produce,2022,7040490564,1577917
+41,Egg,2018,23582084,9149
+42,Egg,2019,20335886,9608
+43,Egg,2020,21456536,9275
+44,Egg,2021,37419936,10407
+45,Egg,2022,46350487,10813
+46,Fish,2018,576514622,226314
+47,Fish,2019,576811365,202388
+48,Fish,2020,532834520,201447
+49,Fish,2021,600419666,235078
+50,Fish,2022,625889267,201449
+51,Forestry & Wood products,2018,477410625,1415155
+52,Forestry & Wood products,2019,466228945,1527424
+53,Forestry & Wood products,2020,446595840,1390215
+54,Forestry & Wood products,2021,682725677,1462335
+55,Forestry & Wood products,2022,748787630,1486521
+56,Fruit & Vegetables,2018,145708501,69098
+57,Fruit & Vegetables,2019,159179647,85048
+58,Fruit & Vegetables,2020,176659057,89713
+59,Fruit & Vegetables,2021,219813432,95721
+60,Fruit & Vegetables,2022,179395496,111372
+61,Fruit & Vegetables Based Products,2018,176896030,117821
+62,Fruit & Vegetables Based Products,2019,157692564,103263
+63,Fruit & Vegetables Based Products,2020,151017209,106128
+64,Fruit & Vegetables Based Products,2021,181900764,110217
+65,Fruit & Vegetables Based Products,2022,198945997,111082
+66,Live Animals,2018,431525615,80826
+67,Live Animals,2019,454092757,85381
+68,Live Animals,2020,418660946,89032
+69,Live Animals,2021,534412830,89915
+70,Live Animals,2022,593244654,94880
+71,Miscellaneous Edible Products & Preparations,2018,264574146,97949
+72,Miscellaneous Edible Products & Preparations,2019,321193423,111119
+73,Miscellaneous Edible Products & Preparations,2020,338642317,108043
+74,Miscellaneous Edible Products & Preparations,2021,392205436,134963
+75,Miscellaneous Edible Products & Preparations,2022,424952416,116594
+76,"Oils, Fats & Oleaginous Fruits",2018,68745559,113310
+77,"Oils, Fats & Oleaginous Fruits",2019,71732614,113940
+78,"Oils, Fats & Oleaginous Fruits",2020,85409415,114809
+79,"Oils, Fats & Oleaginous Fruits",2021,113774778,114219
+80,"Oils, Fats & Oleaginous Fruits",2022,150147258,114704
+81,Other Meat & Meat Produce,2018,54542823,71382
+82,Other Meat & Meat Produce,2019,20510624,35335
+83,Other Meat & Meat Produce,2020,24547345,40142
+84,Other Meat & Meat Produce,2021,30424148,5568
+85,Other Meat & Meat Produce,2022,26446474,4487
+86,Pigmeat,2018,828075422,283880
+87,Pigmeat,2019,891520721,274533
+88,Pigmeat,2020,893260927,276450
+89,Pigmeat,2021,936056320,290827
+90,Pigmeat,2022,954287520,284988
+91,Poultry,2018,306220492,135745
+92,Poultry,2019,291038413,143103
+93,Poultry,2020,254909365,133339
+94,Poultry,2021,240235462,95342
+95,Poultry,2022,309185123,111402
+96,Sheepmeat,2018,316004472,59761
+97,Sheepmeat,2019,317839964,61960
+98,Sheepmeat,2020,355680404,64096
+99,Sheepmeat,2021,386182720,58250
+100,Sheepmeat,2022,452760864,66351
+101,"Sugar, Sugar Preparation & Honey",2018,143777499,119277
+102,"Sugar, Sugar Preparation & Honey",2019,150772998,85406
+103,"Sugar, Sugar Preparation & Honey",2020,120715468,41127
+104,"Sugar, Sugar Preparation & Honey",2021,120028384,33316
+105,"Sugar, Sugar Preparation & Honey",2022,121605546,27582
+106,"Wool, Flax & Cotton",2018,9408797,6825
+107,"Wool, Flax & Cotton",2019,7160539,5684
+108,"Wool, Flax & Cotton",2020,4789209,3605
+109,"Wool, Flax & Cotton",2021,6944902,4222
+110,"Wool, Flax & Cotton",2022,8176740,4639
